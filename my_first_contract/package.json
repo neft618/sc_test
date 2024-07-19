@@ -30,6 +30,7 @@
     "onchaintest": "ts-node ./scripts/onchaintest.ts"
   },
   "dependencies": {
+    "@orbs-network/ton-access": "^2.3.3",
     "ton-core": "^0.53.0"
   }
 }
